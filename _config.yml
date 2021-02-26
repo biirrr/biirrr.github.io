@@ -4,7 +4,7 @@ description: >-
   The Building towards Interactive Information Retrieval Resource Reuse project (BIIRRR)
   consists of a number of initiatives aimed at making re-use within IIR studies simpler.
 baseurl: ""
-url: ""
+url: "https://biirrr.github.io"
 github_username:  biirrr
 
 # Build settings
