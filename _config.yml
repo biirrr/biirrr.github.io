@@ -1,0 +1,26 @@
+title: Building towards Interactive Information Retrieval Resource Reuse
+#email: your-email@example.com
+description: >-
+  The Building towards Interactive Information Retrieval Resource Reuse project (BIIRRR)
+  consists of a number of initiatives aimed at making re-use within IIR studies simpler.
+baseurl: ""
+url: ""
+github_username:  biirrr
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
